@@ -1,5 +1,5 @@
 # MEA
-![lo2](https://github.com/IliyaNazmehr/MEA/assets/94562283/c8f6192a-9362-445e-a6ad-1e04bdafc86d)
+![lo2](https://github.com/IliyaNazmehr/MEA/assets/94562283/6ce93e43-e07a-4b83-8d56-36fde55effc0)
 
 Economic assistant chatbot: an advanced artificial intelligence assistant in the field of economics
 
