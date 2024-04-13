@@ -4,7 +4,7 @@
 Economic assistant chatbot: an advanced artificial intelligence assistant in the field of economics
 
 This assistant, which is based on artificial intelligence technology, is a student project of the IUP team.
-This team consists of 5 students of Islamic Azad University, Tehran Branch.
+This team consists of students of Islamic Azad University, Tehran branch.
 
 ## All About the Economic assistant chatbot
 
@@ -32,6 +32,6 @@ This robot is suitable for everyone, especially those who are interested in inve
 
 The interesting point is that there is no need to have economic analysis knowledge and this robot makes the work much easier for you. Also, there is no need for extensive research in the economic field because, according to the above explanations, this robot has the statistics and history of all currencies and is easily able to analyze and review them.
 
-**How the Economic Robot Works:**
+**How the Economic assistant chatbot Works:**
 
 This robot is supposed to be available to the public as a web application and the structure and operation of this robot will be explained in the following cases.
