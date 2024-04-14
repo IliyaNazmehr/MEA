@@ -4,7 +4,7 @@
 
 Stock market data is one of the most essential tools for investing in the capital market. This data includes information on prices, trading volumes, charts, and other market parameters. To access stock market data in Iran, you can use the TSETMC website. This site provides information on the stock market, securities, investment funds, and other financial instruments.
 
-******************************************
+*******************************************
 **Free Stock Market Data Sources:**
 
 Here are four free sources of stock market data for Iran and abroad:
