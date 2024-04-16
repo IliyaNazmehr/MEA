@@ -1,14 +1,12 @@
 # MEA
 ![lo2](https://github.com/IliyaNazmehr/MEA/assets/94562283/6ce93e43-e07a-4b83-8d56-36fde55effc0)
 
-Economic assistant chatbot: an advanced artificial intelligence assistant in the field of economics
+***Economic Assistant Chatbot: An Advanced Artificial Intelligence Assistant in the Field of Economics***
+**This assistant, based on artificial intelligence technology, is a student project of the IUP team.**
+**This team consists of students from the Islamic Azad University, Tehran branch.**
 
-This assistant, which is based on artificial intelligence technology, is a student project of the IUP team.
-This team consists of students of Islamic Azad University, Tehran branch.
 
-## All About the Economic assistant chatbot
-
-**Introduction:**
+## All about the Economic Assistant Chatbot **Introduction:**
 
 Certainly, all of us humans have at some point decided to increase our capital and thought about preserving the value of money, investing, and multiplying it; but since we do not have enough knowledge to analyze the economy of our country, we avoid it. Many have taken this risk and invest their money in different fields, while others do not take any action and do not enter into these discussions because of the fear of losing their capital.
 
