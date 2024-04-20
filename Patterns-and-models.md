@@ -38,13 +38,24 @@ In this document, we present several open-source and free AI and deep learning m
 
 * **scikit-learn:** This popular Python machine learning library provides various algorithms for classification, regression, and clustering. [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
 
+* ![da615a681b8d](https://github.com/IliyaNazmehr/MEA/assets/167237402/14d0ed7c-f555-4dac-b8fa-f4616294e34c)
+
+
 * **XGBoost:** This gradient boosting tree decision library excels in classification and regression tasks. [https://github.com/dmlc/xgboost](https://github.com/dmlc/xgboost)
 
+* ![1623913883833](https://github.com/IliyaNazmehr/MEA/assets/167237402/bc1b7304-c057-4083-91db-fab000352370)
+
+
 * **TensorFlow:** This powerful numerical computation library is well-suited for building and training complex deep learning models. [https://www.tensorflow.org/](https://www.tensorflow.org/)
+
+* ![images (2)](https://github.com/IliyaNazmehr/MEA/assets/167237402/e349866a-3504-4003-be25-067131972149)
+
 
 **Additional Tools and Frameworks:**
 
 * **Rasa:** This open-source framework for building chatbots includes tools for training language models, managing conversations, and integrating with other applications. [https://rasa.com/](https://rasa.com/)
+
+* 
 
 * **Botpress:** This open-source chatbot-building platform offers a visual interface for creating conversations, integrating with various channels, and analyzing your chatbot's performance. [https://botpress.com/](https://botpress.com/)
 
