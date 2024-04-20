@@ -46,6 +46,11 @@ In this document, we present several open-source and free AI and deep learning m
 
 * **Rasa:** This open-source framework for building chatbots includes tools for training language models, managing conversations, and integrating with other applications. [https://rasa.com/](https://rasa.com/)
 
+* ![images (4)](https://github.com/IliyaNazmehr/MEA/assets/167237402/cda93cf0-81af-4806-82af-8791dfc8b26d)
+
+
 * **Botpress:** This open-source chatbot-building platform offers a visual interface for creating conversations, integrating with various channels, and analyzing your chatbot's performance. [https://botpress.com/](https://botpress.com/)
+
+* 
 
 * **Dialogflow:** This cloud-based chatbot platform from Google provides a visual interface for building conversations, integrating with other Google products, and leveraging Google's machine learning models to enhance the performance of our financial assistant.
