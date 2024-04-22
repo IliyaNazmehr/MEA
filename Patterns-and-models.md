@@ -30,13 +30,17 @@ In this document, we present several open-source and free AI and deep learning m
 
 * **Stable Baselines3:** This TensorFlow-based reinforcement learning library offers efficient implementations of popular reinforcement learning algorithms like PPO and DQN. [https://github.com/openai/baselines](https://github.com/openai/baselines)
 
-* 
+* ![images (1)](https://github.com/IliyaNazmehr/MEA/assets/167237402/61e6bf5f-3b5b-464b-b44c-5aa559219d4b)
+
+
+
 
 * **Ray RLlib:** This scalable reinforcement learning library built on Ray enables you to run reinforcement learning algorithms efficiently on multiple CPUs or GPUs. [https://docs.ray.io/en/latest/rllib/rllib-env.html](https://docs.ray.io/en/latest/rllib/rllib-env.html)
 
 **Machine Learning Models:**
 
 * **scikit-learn:** This popular Python machine learning library provides various algorithms for classification, regression, and clustering. [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
+
 
 * **XGBoost:** This gradient boosting tree decision library excels in classification and regression tasks. [https://github.com/dmlc/xgboost](https://github.com/dmlc/xgboost)
 
