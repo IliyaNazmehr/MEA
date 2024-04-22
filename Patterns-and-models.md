@@ -52,4 +52,10 @@ In this document, we present several open-source and free AI and deep learning m
 
 * **Botpress:** This open-source chatbot-building platform offers a visual interface for creating conversations, integrating with various channels, and analyzing your chatbot's performance. [https://botpress.com/](https://botpress.com/)
 
+* ![images (6)](https://github.com/IliyaNazmehr/MEA/assets/167237402/8de1b7ba-b9a1-452d-8ab8-e06ef586344a)
+
+
 * **Dialogflow:** This cloud-based chatbot platform from Google provides a visual interface for building conversations, integrating with other Google products, and leveraging Google's machine learning models to enhance the performance of our financial assistant.
+
+* ![images (9)](https://github.com/IliyaNazmehr/MEA/assets/167237402/029198f4-2cbd-44f9-bb8d-7c6fd36fea1a)
+
