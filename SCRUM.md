@@ -70,3 +70,7 @@ SCRUM is a suitable framework for developing an AI chatbot as a financial assist
 
 
 ![4](https://github.com/IliyaNazmehr/MEA/assets/94562283/95819aa6-6f37-4883-a70b-fb43320d59ff)
+
+
+
+![5](https://github.com/IliyaNazmehr/MEA/assets/94562283/30ae9f6b-0c10-420e-9c71-b09d84cf081a)
