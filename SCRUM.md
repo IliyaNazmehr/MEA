@@ -64,3 +64,9 @@
 **Conclusion:**
 
 SCRUM is a suitable framework for developing an AI chatbot as a financial assistant. SCRUM helps the team approach the project in a flexible, focused, collaborative, transparent, and accountable manner. By using SCRUM, the team can develop a high-quality chatbot on time and within budget.
+
+![3](https://github.com/IliyaNazmehr/MEA/assets/94562283/6025de14-2477-47b1-b59f-68ac52c0e8e5)
+
+
+
+![4](https://github.com/IliyaNazmehr/MEA/assets/94562283/95819aa6-6f37-4883-a70b-fb43320d59ff)
