@@ -42,3 +42,6 @@ Demo Company operates in the field of buying and selling goods and has a large l
 2. Reduce excessive transfers and save time.
    
 3. Perform the task with the utmost accuracy.
+
+![1](https://github.com/IliyaNazmehr/MEA/assets/94562283/e1355b07-fa3b-4656-998e-43488999d25a)
+![2](https://github.com/IliyaNazmehr/MEA/assets/94562283/a505cfbe-3e49-4d75-932b-4f8030965b2a)
